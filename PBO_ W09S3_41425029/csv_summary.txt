@@ -1,0 +1,30 @@
+=== CSV SUMMARY STATISTICS ===
+Rows: 6, Columns: 4
+
+[Name] (categorical)
+  Count   : 6 (missing: 0)
+  Unique  : 6
+  Top     : Alice (1x)
+
+[Age] (numeric)
+  Count   : 5 (missing: 0, invalid: 1)
+  Sum     : 129,00
+  Mean    : 25,80
+  Min     : 22,00
+  Max     : 30,00
+  Median  : 25,00
+  Std Dev : 3,19
+
+[GPA] (numeric)
+  Count   : 5 (missing: 1, invalid: 0)
+  Sum     : 17,50
+  Mean    : 3,50
+  Min     : 3,10
+  Max     : 3,90
+  Median  : 3,50
+  Std Dev : 0,35
+
+[Major] (categorical)
+  Count   : 6 (missing: 0)
+  Unique  : 4
+  Top     : Computer Science (2x)
